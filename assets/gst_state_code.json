@@ -1,0 +1,204 @@
+{
+	"list":[
+	{
+		"state_name": "Select State",
+		"aph_code": "--",
+		"gst_state": "0"
+	},
+	{
+		"state_name": "Andaman and Nicobar Islands",
+		"aph_code": "AN",
+		"gst_state": "35"
+	},
+	{
+		"state_name": "Andhra Pradesh",
+		"aph_code": "AP",
+		"gst_state": "37"
+	},
+	{
+		"state_name": "Arunachal Pradesh",
+		"aph_code": "AR",
+		"gst_state": "12"
+	},
+	{
+		"state_name": "Assam",
+		"aph_code": "AS",
+		"gst_state": "18"
+	},
+	{
+		"state_name": "Bihar",
+		"aph_code": "BR",
+		"gst_state": "10"
+	},
+	{
+		"state_name": "Chandigarh",
+		"aph_code": "CH",
+		"gst_state": "04"
+	},
+	{
+		"state_name": "Chhattisgarh",
+		"aph_code": "CG",
+		"gst_state": "22"
+	},
+	{
+		"state_name": "Dadra and Nagar Haveli",
+		"aph_code": "DN",
+		"gst_state": "26"
+	},
+	{
+		"state_name": "Daman and Diu",
+		"aph_code": "DD",
+		"gst_state": "25"
+	},
+	{
+		"state_name": "Delhi",
+		"aph_code": "DL",
+		"gst_state": "07"
+	},
+	{
+		"state_name": "Goa",
+		"aph_code": "GA",
+		"gst_state": "30"
+	},
+	{
+		"state_name": "Gujarat",
+		"aph_code": "GJ",
+		"gst_state": "24"
+	},
+	{
+		"state_name": "Haryana",
+		"aph_code": "HR",
+		"gst_state": "06"
+	},
+	{
+		"state_name": "Himachal Pradesh",
+		"aph_code": "HP",
+		"gst_state": "02"
+	},
+	{
+		"state_name": "Jammu and Kashmir",
+		"aph_code": "JK",
+		"gst_state": "01"
+	},
+	{
+		"state_name": "Jharkhand",
+		"aph_code": "JH",
+		"gst_state": "20"
+	},
+	{
+		"state_name": "Karnataka",
+		"aph_code": "KA",
+		"gst_state": "29"
+	},
+	{
+		"state_name": "Kerala",
+		"aph_code": "KL",
+		"gst_state": "32"
+	},
+	{
+		"state_name": "Ladakh",
+		"aph_code": "LA",
+		"gst_state": "38"
+	},
+	{
+		"state_name": "Lakshadweep",
+		"aph_code": "LD",
+		"gst_state": "31"
+	},
+	{
+		"state_name": "Madhya Pradesh",
+		"aph_code": "MP",
+		"gst_state": "23"
+	},
+	{
+		"state_name": "Maharashtra",
+		"aph_code": "MH",
+		"gst_state": "27"
+	},
+	{
+		"state_name": "Manipur",
+		"aph_code": "MN",
+		"gst_state": "14"
+	},
+	{
+		"state_name": "Meghalaya",
+		"aph_code": "ML",
+		"gst_state": "17"
+	},
+	{
+		"state_name": "Mizoram",
+		"aph_code": "MZ",
+		"gst_state": "15"
+	},
+	{
+		"state_name": "Nagaland",
+		"aph_code": "NL",
+		"gst_state": "13"
+	},
+	{
+		"state_name": "Odisha",
+		"aph_code": "OR",
+		"gst_state": "21"
+	},
+	{
+		"state_name": "Other Territory",
+		"aph_code": "OT",
+		"gst_state": "97"
+	},
+	{
+		"state_name": "Puducherry",
+		"aph_code": "PY",
+		"gst_state": "34"
+	},
+	{
+		"state_name": "Punjab",
+		"aph_code": "PB",
+		"gst_state": "03"
+	},
+	{
+		"state_name": "Rajasthan",
+		"aph_code": "RJ",
+		"gst_state": "08"
+	},
+	{
+		"state_name": "Sikkim",
+		"aph_code": "SK",
+		"gst_state": "11"
+	},
+	{
+		"state_name": "Tamil Nadu",
+		"aph_code": "TN",
+		"gst_state": "33"
+	},
+	{
+		"state_name": "Telangana",
+		"aph_code": "TS",
+		"gst_state": "36"
+	},
+	{
+		"state_name": "Tripura",
+		"aph_code": "TR",
+		"gst_state": "16"
+	},
+	{
+		"state_name": "Uttar Pradesh",
+		"aph_code": "UP",
+		"gst_state": "09"
+	},
+	{
+		"state_name": "Uttarakhand",
+		"aph_code": "UA",
+		"gst_state": "05"
+	},
+	{
+		"state_name": "West Bengal",
+		"aph_code": "WB",
+		"gst_state": "19"
+	},
+	{
+		"state_name": "Foreign Country",
+		"aph_code": "FC",
+		"gst_state": "96"
+	}
+]
+}
